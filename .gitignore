@@ -1,0 +1,10 @@
+# Server directories excluded from this repository.
+/fold0/
+/fold1/
+/fold2/
+/fold3/
+/fold4/
+/log/
+/metrics_checks/
+/struct_semantic_alignment/
+/Test/
